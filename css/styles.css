@@ -4578,6 +4578,7 @@ iframe {
 
 .card-footer {
   padding: 0.5rem 1rem;
+  border-top: 1px solid #eee;
   background-color: rgba(0, 0, 0, 0.03);
 }
 .card-footer:last-child {
